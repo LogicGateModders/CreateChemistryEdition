@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "minecraft:glass"
+    }
+  ],
+  "results": [
+    {
+      "item": "createchemedit:empty_test_tube"
+    }
+  ]
+}

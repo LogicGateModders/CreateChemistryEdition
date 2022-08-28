@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": {"model": "createchemedit:block/test_block"}
+  }
+}
